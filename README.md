@@ -8,7 +8,7 @@
 ![系统概要图](https://images.gitee.com/uploads/images/2021/1026/144720_f958b282_1808544.png "屏幕截图.png")
 
 ### 联系作者
-#### 微信号: SkywalkingPro
+#### 微信号: Lanson_sh
 #### 见文末微信二维码
 
 #### 演示地址
@@ -203,9 +203,9 @@
 
 ####  **联系作者** 
 
- **这是作者的微信二维码，如需本项目源代码，可扫码联系联系作者。 17381852768 微信同号**  
+ ![联系作者](https://skywalking-web.oss-cn-chengdu.aliyuncs.com/main-platform-senwang.png "联系作者.png")
 
-![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png "微信二维码-1.png")
+ **这是作者的微信二维码，如需本项目源代码，可扫上图二维码或者VX:Lanson_sh联系作者。**  
 
 **这是作者的技术技术交流群二维码，如已过期请扫码联系作者拉群** 
 
